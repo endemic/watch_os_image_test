@@ -10,7 +10,7 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="ImageTest_WatchKit_App" customModuleProvider="target">
                     <items>
-                        <imageView width="100" height="100" alignment="center" verticalAlignment="center" id="0YX-Dc-1n9"/>
+                        <imageView width="134" height="134" alignment="center" verticalAlignment="center" id="0YX-Dc-1n9"/>
                     </items>
                     <connections>
                         <outlet property="image" destination="0YX-Dc-1n9" id="CmM-f4-rAB"/>
